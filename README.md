@@ -7,8 +7,12 @@
         />
     </a>
 </p>
+<hr>
 <h2 align="center">Hello👋<br>I'm ⒹⓈ᭄ʜʏͥᴅᷧʀᷟᴀ✘๛ˢᴸ😈</h1>
-
+<p align= "center">
+<img src="https://www.udrop.com/file/6cKt/hack_49-1.jpg",width="80", height="80",alt="john-kener"/>
+</p>
+<br />
 - 🔭 I’m currently working on **Termux🤤**
 - 🌱 I’m currently learning **Python,Html,Java,etc...**
 - 💬 Ask me about 😈**Hacking**😈
