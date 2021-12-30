@@ -2,13 +2,12 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=50&width=800&lines=Hi+There+👋+How+Are+You?"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=500&lines=Hi+There+👋+How+Are+You?"
             alt="Typing SVG"
         />
     </a>
 </p>
-
-### Hi there 👋 I'm  ⒹⓈ᭄ʜʏͥᴅᷧʀᷟᴀ✘๛ˢᴸ 
+<h2 align="center">Hello👋<br>I'm ⒹⓈ᭄ʜʏͥᴅᷧʀᷟᴀ✘๛ˢᴸ😈</h1>
 
 - 🔭 I’m currently working on **Termux🤤**
 - 🌱 I’m currently learning **Python,Html,Java,etc...**
