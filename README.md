@@ -11,7 +11,7 @@
    <a href=alt="made-with-python"> <img src="https://github.com/SL-Hydra/SL-Hydra/blob/main/Developer.gif"width="500" /> </a>
 </p>
 <hr />
-<h2 align="center">Hello👋<br>I'm ⒹⓈ᭄ʜʏͥᴅᷧʀᷟᴀ✘๛ˢᴸ😈</h1>
+<h2 align="center">Hello👋<br>I'm HYDRA</h1>
 <p align= "center">
 <img src="https://www.udrop.com/file/6cKt/hack_49-1.jpg",width="80", height="80",alt="john-kener"/>
 </p>
@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Termux🤤**
 - 🌱 I’m currently learning **Python,shell,Html,node.js,Java,etc..**
 - 💬 Ask me about 😈**Hacking**😈
-- 📫 How to reach me: [Telegram](https://t.me/MahiyaSL) | [Whatsapp](https://wa.me/94764480414)
+- 📫 How to reach me: [Telegram](https://t.me/hydraSL) | [Whatsapp](https://wa.me/94773623115)
 <hr />
 <p align="center">
   <a href="https://github.com/SL-Hydra">
