@@ -18,7 +18,7 @@
 <br />
 
 - 🔭 I’m currently working on **Termux🤤**
-- 🌱 I’m currently learning **Python,shell,Html,node.js,Java,etc..**
+- 🌱 I’m currently learning **Python, Shell, Html, Javascript, Java, etc..**
 - 💬 Ask me about 😈**Hacking**😈
 - 📫 How to reach me: [Telegram](https://t.me/hydraSL) | [Whatsapp](https://wa.me/94773623115)
 <hr />
