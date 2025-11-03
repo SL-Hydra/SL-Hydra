@@ -1,6 +1,6 @@
 <!-- ✨ Anime-Style Animated GitHub Profile ✨ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+SL-Hydra!;Bot Developer+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+SL-Hydra!;Bot Developer+Programmer" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
