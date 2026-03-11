@@ -44,7 +44,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SL-Hydra&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
-[![GitHub Snake Game](https://github.com/SL-Hydra/SL-Hydra/actions/workflows/snake.yml/badge.svg)](https://github.com/SL-Hydra/SL-Hydra/actions/workflows/snake.yml)
+![snake gif](https://github.com/SL-Hydra/SL-Hydra/blob/output/github-snake-dark.svg)
 
 ---
 
