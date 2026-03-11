@@ -13,7 +13,6 @@
 🌀 Passionate developer blending **code & creativity**  
 💻 Building **bots**, **web apps**, and **automation tools**  
 🎮 Anime lover | 💥 Tech tinkerer | 💬 Always learning  
-⚡ Motto: *“Infinity is just the beginning.”*  
 
 ---
 
@@ -45,18 +44,6 @@
 </p>
 
 ![snake gif](https://github.com/SL-Hydra/SL-Hydra/blob/output/github-snake-dark.svg)
-
----
-
-### 💫 Fun Corner
-🎧 Currently vibing to: *Jujutsu Kaisen OST – Kaikai Kitan*  
-🌟 Goal: Create bots so smooth even Gojo can’t detect them  
-
-<div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="200px">
-</div>
-
----
 
 <h3 align="center">✨ Connect with me ✨</h3>
 <p align="center">
